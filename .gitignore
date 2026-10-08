@@ -1,0 +1,6 @@
+conta-objetos-sequencial
+conta-objetos-paralelo
+gera-matriz
+tests/adicionais/grande_*.txt
+.DS_Store
+*.dSYM/
