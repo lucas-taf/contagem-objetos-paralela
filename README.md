@@ -9,12 +9,12 @@ Conta objetos em uma matriz binária. Cada objeto é um componente conexo de cé
 | Sequencial (referência) | `src/conta-objetos-sequencial.c` | Flood fill iterativo com pilha explícita |
 | Paralela | `src/conta-objetos-paralelo.c` | **Pthreads** + decomposição em blocos + fila dinâmica + Union-Find protegido por mutex |
 
-- **Autoria:** Lucas Flor – matrícula 200341 – turma 330 (trabalho individual)
+- **Autoria:** Lucas Flor – matrícula 23111468 – turma 330 (trabalho individual)
 - **Linguagem:** ANSI C (C89/C90) + APIs POSIX (`pthread_*`, `gettimeofday`)
 - **Plataforma testada:** macOS 27.0.1, Apple M2 (4 núcleos de desempenho + 4 de eficiência, 8 GB), Apple clang 21.0.0. Também compila no Linux (gcc).
 - **Relatório técnico completo:** [`RELATORIO_TECNICO.md`](RELATORIO_TECNICO.md)
 - **Slides:** [`slides/apresentacao.pdf`](slides/apresentacao.pdf)
-- **Vídeo (YouTube, não listado):** [INSERIR LINK]
+- **Vídeo (YouTube, não listado):** https://youtu.be/t0m96NRKOhg
 
 ## Estrutura
 

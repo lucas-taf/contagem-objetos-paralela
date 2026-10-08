@@ -1,4 +1,4 @@
-== Testes funcionais (Wed Oct  7 20:22:23 -03 2026) ==
+== Testes funcionais (Thu Oct  8 00:40:49 -03 2026) ==
 Matriz                                 Esperado Sequencial Paralelo (T:BLxBC -> obj)    Situacao
 ex1_5x5.txt                                   3          3  1:1x1->3 2:2x1->3 2:1x2->3 4:2x2->3 4:3x3->3 3:3x3->3 8:4x4->3 2:6x6->3  Aprovado
 ex2_6x8.txt                                   4          4  1:1x1->4 2:2x1->4 2:1x2->4 4:2x2->4 4:3x3->4 3:3x3->4 8:4x4->4 2:6x6->4  Aprovado
@@ -12,6 +12,7 @@ a4_x_diagonais_10x10.txt                      -          1  1:1x1->1 2:2x1->1 2:
 a5_serpente_15x15.txt                         -          1  1:1x1->1 2:2x1->1 2:1x2->1 4:2x2->1 4:3x3->1 3:3x3->1 8:4x4->1 2:6x6->1  Aprovado
 a6_pontos_isolados_10x10.txt                  -         25  1:1x1->25 2:2x1->25 2:1x2->25 4:2x2->25 4:3x3->25 3:3x3->25 8:4x4->25 2:6x6->25  Aprovado
 a7_linha_1x20.txt                             -          7  1:1x1->7 2:2x1->7 2:1x2->7 4:2x2->7 4:3x3->7 3:3x3->7 8:4x4->7 2:6x6->7  Aprovado
+grande_4000x4000.txt                          -     117612  1:1x1->117612 2:2x1->117612 2:1x2->117612 4:2x2->117612 4:3x3->117612 3:3x3->117612 8:4x4->117612 2:6x6->117612  Aprovado
 
 Cada configuracao paralela foi executada 5 vezes por matriz.
 RESULTADO: TODOS OS TESTES APROVADOS
