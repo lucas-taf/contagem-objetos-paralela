@@ -3,7 +3,7 @@
 > **Disciplina:** Sistemas Operacionais - 2026/II  
 > **Professor:** Prof. Filipo Novo Mór  
 > **Instituição:** Pontifícia Universidade Católica do Rio Grande do Sul - Escola Politécnica  
-> **Repositório:** [https://github.com/SEU_USUARIO/contagem-objetos-paralela](https://github.com/SEU_USUARIO/contagem-objetos-paralela)  
+> **Repositório:** [https://github.com/lucas-taf/contagem-objetos-paralela](https://github.com/lucas-taf/contagem-objetos-paralela)  
 > **Versão do relatório:** 1.0  
 > **Data:** 06/10/2026
 
@@ -12,14 +12,14 @@
 | Campo | Informação |
 |---|---|
 | Integrante 1 | Lucas Flor |
-| Matrícula do integrante 1 | 200341 |
+| Matrícula do integrante 1 | 23111468 |
 | Integrante 2 | Não se aplica |
 | Matrícula do integrante 2 | Não se aplica |
 | Modalidade | Individual |
 | Turma | 330 |
 | Estratégia paralela | Pthreads |
 | Plataforma testada | macOS 27.0.1 (Apple M2, arm64) |
-| Commit avaliado | [`HASH_DO_COMMIT`] |
+| Commit avaliado | 457b541 |
 
 ## Resumo
 
